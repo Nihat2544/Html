@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+}
+
+h2{
+    color: aqua;
+}
+
+.ilk{
+    color: aqua;
+}
+
+.red{
+    color: brown;
+}
+
+a{
+    text-decoration: none;
+}
+
+.b{
+    color: red;
+}
+
+.ana{
+    border: 2px solid blue;
+}
+
+.kutu{
+    background-color: chartreuse;
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 20px 5px black;
+    
+}
+
+.kutu2{
+    background-color: crimson;
+    width: 150px;
+    height: 150px;
+    border: 3px solid blue;
+    border-radius: 150px;
+}
+
+      /* Yorum */
